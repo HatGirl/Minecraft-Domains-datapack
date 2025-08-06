@@ -1,0 +1,1 @@
+function domains:proficiency/mining_proficiency/load_mining

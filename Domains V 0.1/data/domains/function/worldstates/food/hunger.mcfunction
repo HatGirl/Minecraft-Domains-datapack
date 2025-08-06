@@ -1,0 +1,1 @@
+execute as @a at @a run effect give @s hunger infinite 0 true
