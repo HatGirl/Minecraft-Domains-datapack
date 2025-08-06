@@ -1,1 +1,0 @@
-scoreboard objectives add is_sprinting custom:minecraft.sprint_one_cm

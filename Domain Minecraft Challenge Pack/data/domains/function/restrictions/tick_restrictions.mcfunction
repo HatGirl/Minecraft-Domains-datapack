@@ -1,1 +1,0 @@
-function domains:restrictions/mining_restrictions/mining_proficiency_check
