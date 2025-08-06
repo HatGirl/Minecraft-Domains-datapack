@@ -1,0 +1,1 @@
+scoreboard objectives add rotten_flesh_eaten used:rotten_flesh
