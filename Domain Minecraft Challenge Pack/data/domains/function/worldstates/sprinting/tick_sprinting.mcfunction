@@ -1,0 +1,1 @@
+execute as @a[scores={is_sprinting=1..}] at @s run tag @s add sprinting

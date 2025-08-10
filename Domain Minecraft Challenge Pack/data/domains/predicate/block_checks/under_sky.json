@@ -1,0 +1,11 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "can_see_sky": true
+      }
+    }
+  ]
+}

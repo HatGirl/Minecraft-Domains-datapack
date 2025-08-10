@@ -1,0 +1,1 @@
+function domains:worldstates/temperature/calculations/player_temperature
